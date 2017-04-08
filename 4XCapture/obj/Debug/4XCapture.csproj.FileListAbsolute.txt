@@ -1,0 +1,10 @@
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\bin\Debug\4XCapture.exe.config
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\bin\Debug\4XCapture.exe
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\bin\Debug\4XCapture.pdb
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\4XCapture.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\_4XCapture.Form1.resources
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\_4XCapture.FRM_FullScreen.resources
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\_4XCapture.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\4XCapture.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\4XCapture.exe
+c:\users\joker\documents\visual studio 2013\Projects\4XCapture\4XCapture\obj\Debug\4XCapture.pdb
